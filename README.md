@@ -1,6 +1,6 @@
 Oiii! Eu sou a Ana Carolina
 
-- 🔭 Hoje trabalho com desenvolvimento web
+- 🔭 Desenvolvedora Web
 - 🌱 Estudo engenharia de software
 - 📫 Contate-me no e-mail: anacarolinasantanadasilva6@gmail.com
 
